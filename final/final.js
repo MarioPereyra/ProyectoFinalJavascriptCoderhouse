@@ -77,8 +77,11 @@ for (const producto of productos) {
   $(".listaProductos").append(`<div><h3>${producto.Nombre}</h3>
   <img class="prod" src=./img/${producto.Imagen}>
   <p>Precio: $ ${producto.Precio}</p>
-  <button class="btn" id="items">Añadir al Carrito</button></div>`);
+  <button  class="btn" id="items">Añadir al Carrito</button></div>`);
 }
+
+$("body").prepend('<img style="display: none" src="./img/logo.png">');
+$("img").fadeIn();
 
 const addCarrito = (e) => {
   console.log(e.target.classList.contains("items"));
