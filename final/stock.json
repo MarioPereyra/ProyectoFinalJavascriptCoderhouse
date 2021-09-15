@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "nombre": "Han y Leia",
+    "tipo": "cuadrito",
+    "desc": "Cuadrito Han y Leia",
+    "precio": 1000,
+    "medidas": "20x30",
+    "img": "./img/1.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Boba Fett",
+    "tipo": "cuadrito",
+    "desc": "Cuadrito Boba Fett",
+    "precio": 800,
+    "medidas": "20x30",
+    "img": "./img/2.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Leia",
+    "tipo": "cuadrito",
+    "desc": "Cuadrito Leia",
+    "precio": 900,
+    "medidas": "20x30",
+    "img": "./img/3.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Loki",
+    "tipo": "cuadrito",
+    "desc": "Cuadrito Loki",
+    "precio": 1000,
+    "medidas": "20x30",
+    "img": "./img/4.png"
+  },
+  {
+    "id": 5,
+    "nombre": "Wandavision",
+    "tipo": "cuadrito",
+    "desc": "Cuadrito Wandavision",
+    "precio": 800,
+    "medidas": "20x30",
+    "img": "./img/5.png"
+  },
+  {
+    "id": 6,
+    "nombre": "Rick",
+    "tipo": "cuadrito",
+    "desc": "Cuadrito Rick",
+    "precio": 800,
+    "medidas": "20x30",
+    "img": "./img/6.png"
+  },
+  {
+    "id": 7,
+    "nombre": "Rick & Morty",
+    "tipo": "cuadrito",
+    "desc": "Cuadrito Rick & Morty",
+    "precio": 1000,
+    "medidas": "20x30",
+    "img": "./img/7.png"
+  },
+  {
+    "id": 8,
+    "nombre": "Padmé",
+    "tipo": "cuadrito",
+    "desc": "Cuadrito Padmé",
+    "precio": 900,
+    "medidas": "20x30",
+    "img": "./img/8.png"
+  },
+  {
+    "id": 9,
+    "nombre": "Stickers de Baphomet",
+    "tipo": "stickers",
+    "desc": "Pack stickers Baphomet",
+    "precio": 350,
+    "medidas": "",
+    "img": "./img/9.png"
+  },
+  {
+    "id": 10,
+    "nombre": "Stickers de Unicornios",
+    "tipo": "stickers",
+    "desc": "Pack stickers Unicornios",
+    "precio": 200,
+    "medidas": "",
+    "img": "./img/10.png"
+  },
+  {
+    "id": 11,
+    "nombre": "Stickers de Michis",
+    "tipo": "stickers",
+    "desc": "Pack stickers Michis",
+    "precio": 350,
+    "medidas": "",
+    "img": "./img/11.png"
+  },
+  {
+    "id": 12,
+    "nombre": "Taza Capitana Marvel",
+    "tipo": "taza",
+    "desc": "Taza sublimada de Capitana Marvel",
+    "precio": 1000,
+    "medidas": "",
+    "img": "./img/12.png"
+  },
+  {
+    "id": 13,
+    "nombre": "Taza Darth Vader",
+    "tipo": "taza",
+    "desc": "Taza con forma de casco de Darth Vader",
+    "precio": 1200,
+    "medidas": "",
+    "img": "./img/13.png"
+  },
+  {
+    "id": 14,
+    "nombre": "Remera Geekamole",
+    "tipo": "remera",
+    "desc": "Remera estampada con el logo de Geekamole",
+    "precio": 1500,
+    "medidas": "",
+    "img": "./img/14.png"
+  }
+]
